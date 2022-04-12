@@ -1,2 +1,3 @@
 # DDD-Sample-App
-Domain Driven Design Sample Application
+
+Domain Driven Design (DDD) phonebook sample application
